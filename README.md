@@ -1,0 +1,2 @@
+# GSOverk
+Lokaverkefni í GSÖ
